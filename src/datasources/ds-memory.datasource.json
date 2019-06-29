@@ -1,0 +1,6 @@
+{
+    "name": "dsMemory",
+    "connector": "memory",
+    "localStorage": "",
+    "file": "./data/db.json"
+  }

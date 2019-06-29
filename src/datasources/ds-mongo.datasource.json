@@ -1,0 +1,10 @@
+{
+    "name": "dsMongo",
+    "connector": "mongodb",
+    "url": "",
+    "host": "",
+    "port": 0,
+    "user": "",
+    "password": "",
+    "database": ""
+  }
